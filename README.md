@@ -2,7 +2,7 @@
 FinTech-CaseStudy - Apple Pay
 
 
-## Table of the Contents
+## Table of Contents
 
 - [ ] [Sections](#sections)
   - [Overview and Origin](#title)
@@ -17,4 +17,7 @@ FinTech-CaseStudy - Apple Pay
 
 ## Overview and Origin
 
-Open banking is a method by which companies are able to offer safe exchange between established banks and third party service providers. By using Application Programming Interfaces (API's), a service provider can integrate their payment, investment tool, or any applicable finance application with all banks.
+Apple Pay was introduced a few years back. It disrupted the business model for online payment even further than PayPal before it. Where PayPal assumed everyone was online in a browser on a computer, ApplePay assumed everyone was on an Apple iPhone.
+
+## Business Activities
+
